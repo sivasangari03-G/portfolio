@@ -8,7 +8,7 @@ export const projectsData = [
 		logos: ["fab fa-react", "fab fa-html5", "fab fa-css3", "fab fa-js"],
 		code: "https://github.com/sivasangari03-G/dineout",
 		demo: "https://dineout-1.netlify.app/",
-		image: "/dineoutImg.png",
+		image: "https://user-images.githubusercontent.com/77038735/157720950-676d8112-42be-48bf-a42d-bcf0b0730411.PNG",
 	},
 	{
 		id: 2,
@@ -19,7 +19,7 @@ export const projectsData = [
 		logos: ["fab fa-html5", "fab fa-css3", "fab fa-js"],
 		code: "https://github.com/sivasangari03-G/TravelNow",
 		demo: "https://vacation-travel.herokuapp.com/",
-		image: "vacationImg.png",
+		image: "https://user-images.githubusercontent.com/77038735/157721466-bf633b57-acb4-4522-8c0f-d7c678dab3a9.PNG",
 	},
 	{
 		id: 3,
@@ -30,7 +30,7 @@ export const projectsData = [
 		logos: ["fab fa-html5", "fab fa-css3", "fab fa-js"],
 		code: "https://github.com/sivasangari03-G/blackJack",
 		demo: "https://gameblackjack.herokuapp.com/",
-		image: "/blackjackImg.png",
+		image: "https://user-images.githubusercontent.com/77038735/157721587-da8bf677-e73d-418f-bdb1-388577b7b557.PNG",
 	},
 	{
 		id: 4,
@@ -41,6 +41,6 @@ export const projectsData = [
 		logos: ["fab fa-html5", "fab fa-css3", "fab fa-js"],
 		code: "https://github.com/sivasangari03-G/first-ecommerce/tree/master/practice",
 		demo: "https://mini-nike-store.herokuapp.com/",
-		image: "miniNikeStore.png",
+		image: "https://user-images.githubusercontent.com/77038735/157721638-777459be-6772-40e7-b485-fd144a853f9b.PNG",
 	},
 ];
