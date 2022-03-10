@@ -16,24 +16,10 @@ import { contactsData } from "../../data/contactsData";
 import "./Contacts.css";
 
 function Contacts() {
-	const [open, setOpen] = useState(false);
-
-	const [name, setName] = useState("");
-	const [email, setEmail] = useState("");
-	const [message, setMessage] = useState("");
-
-	const [success, setSuccess] = useState(false);
-	const [errMsg, setErrMsg] = useState("");
 
 	const { theme } = useContext(ThemeContext);
 
-	const handleClose = (event, reason) => {
-		if (reason === "clickaway") {
-			return;
-		}
 
-		setOpen(false);
-	};
 
 	const useStyles = makeStyles((t) => ({
 		input: {
