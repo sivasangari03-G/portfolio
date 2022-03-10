@@ -18,7 +18,7 @@ function About() {
             </div>
             <div className="about-body">
                 <div className="about-description">
-                    <h2 style={{color: theme.primary}}>ABOUT ME</h2>
+                    <h2 style={{color: theme.primary}}>About Me</h2>
                     <p style={{color:theme.tertiary80,textAlign: "justify"}}>{aboutData.description1}<br/><br/>{aboutData.description2}</p>
                 </div>
                 <div className="about-img">
