@@ -143,11 +143,10 @@
 
 .personal-details {
     display: flex;
-    /* border: 1px solid red; */
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
-    width: 100%;
+    width: 250%;
     margin-bottom: 2.5rem;
 }
 
