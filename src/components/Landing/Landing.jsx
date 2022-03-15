@@ -134,7 +134,7 @@ function Landing() {
 						>
 							Sivasangari
 						</h1>
-						<div style={{ textAlign: "center" }}>
+						<div style={{ textAlign: "center"}}>
 							<h3>
 								I am a
 								<Typewriter
@@ -142,7 +142,6 @@ function Landing() {
 										strings: [
 											"FrontEnd Developer",
 											"Backend Developer",
-											"Electronics and comm. Engineer",
 											"MERN Stack Developer",
 										],
 										autoStart: true,

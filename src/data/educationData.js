@@ -9,15 +9,15 @@ export const educationData = [
 	{
 		id: 2,
 		institution: "K. Ramakrishnan College of Engineering",
-		course: `Electronics and Communication Engineering`,
+		course: `Bachlore's in Electronics`,
 		startYear: "2016",
 		endYear: "2020",
 	},
 	{
 		id: 3,
 		institution: "AKKV Aarunadu Matriculation Hr sec School",
-		course: "Higher Secondary Certificate",
-		startYear: "2015",
+		course: "Schooling",
+		startYear: "2006",
 		endYear: "2016",
 	},
 ];

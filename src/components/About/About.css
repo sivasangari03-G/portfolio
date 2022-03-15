@@ -122,6 +122,9 @@
 }
 
 @media screen and (max-width: 800px){
+   .about {
+    min-height: 70vh;
+  }
   .about .line-styling .style-circle{
     width: 8px;
     height: 8px;
@@ -134,7 +137,9 @@
 }
 
 @media screen and (max-width: 600px){
-
+  .about {
+    min-height: 70vh;
+  }
   .about .line-styling .style-circle{
     width: 5px;
     height: 5px;
