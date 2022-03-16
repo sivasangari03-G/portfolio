@@ -135,13 +135,14 @@ function Landing() {
 							Sivasangari
 						</h1>
 						<div style={{ textAlign: "center"}}>
-							<h3>
+							<h3 style={{fontSize: "24px"}}>
 								I am a
 								<Typewriter
 									options={{
 										strings: [
 											"FrontEnd Developer",
 											"Backend Developer",
+											"Electronics & comm. Engineer",
 											"MERN Stack Developer",
 										],
 										autoStart: true,
