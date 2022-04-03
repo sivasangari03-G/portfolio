@@ -84,7 +84,10 @@
 }
 
 @media screen and (max-width: 992px){
-
+.about {
+    min-height: 60vh;
+    position: relative;
+}
   .about .line-styling{
     top: 20px;
   }

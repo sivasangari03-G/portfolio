@@ -200,6 +200,7 @@
     }
     .contacts--container {
         width: 100%;
+        /* border: 1px solid red; */
         margin-top: 1rem;
     }
     .contacts--container > h1 {

@@ -135,7 +135,7 @@ function Landing() {
 							Sivasangari
 						</h1>
 						<div style={{ textAlign: "center"}}>
-							<h3 style={{fontSize: "24px"}}>
+							<h3 style={{fontSize: "20px"}}>
 								I am a
 								<Typewriter
 									options={{
